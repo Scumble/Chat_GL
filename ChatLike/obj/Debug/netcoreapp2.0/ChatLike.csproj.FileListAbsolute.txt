@@ -1,0 +1,11 @@
+C:\Users\lucky\source\repos\ChatLike\ChatLike\bin\Debug\netcoreapp2.0\ChatLike.deps.json
+C:\Users\lucky\source\repos\ChatLike\ChatLike\bin\Debug\netcoreapp2.0\ChatLike.runtimeconfig.json
+C:\Users\lucky\source\repos\ChatLike\ChatLike\bin\Debug\netcoreapp2.0\ChatLike.runtimeconfig.dev.json
+C:\Users\lucky\source\repos\ChatLike\ChatLike\bin\Debug\netcoreapp2.0\ChatLike.dll
+C:\Users\lucky\source\repos\ChatLike\ChatLike\bin\Debug\netcoreapp2.0\ChatLike.pdb
+C:\Users\lucky\source\repos\ChatLike\ChatLike\obj\Debug\netcoreapp2.0\ChatLike.csprojResolveAssemblyReference.cache
+C:\Users\lucky\source\repos\ChatLike\ChatLike\obj\Debug\netcoreapp2.0\ChatLike.csproj.CoreCompileInputs.cache
+C:\Users\lucky\source\repos\ChatLike\ChatLike\obj\Debug\netcoreapp2.0\ChatLike.AssemblyInfoInputs.cache
+C:\Users\lucky\source\repos\ChatLike\ChatLike\obj\Debug\netcoreapp2.0\ChatLike.AssemblyInfo.cs
+C:\Users\lucky\source\repos\ChatLike\ChatLike\obj\Debug\netcoreapp2.0\ChatLike.dll
+C:\Users\lucky\source\repos\ChatLike\ChatLike\obj\Debug\netcoreapp2.0\ChatLike.pdb

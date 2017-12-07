@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+@model List<ChatLike.Models.Message>
+<html>
+<head>
+</head>
+<body>
+    <form method="post" >
+        <br /><textarea type="text" name="text" cols="80" rows="5"></textarea>
+        <br />Sign <input type="text" name="sign" />
+        <input type="submit" value="Send" />
+    </form>
+     
+    @foreach (var mes in Model)
+    {
+        <div style="font-size:larger">@mes.Text</div>
+        <div style="font-size: smaller">@mes.Sign</div>
+    }
+</body>
+</html>
